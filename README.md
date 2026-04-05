@@ -39,11 +39,12 @@ Zenit also begins to display overlays like this every one to two minutes, making
 Zenit will not nudge you if it sees that your procrastination score is decreasing.
 
 ## Zenit is completely private
-Everything Zenit does is completely private. It uses Apple Intelligence which comes with every Mac to carry out its analysis and does not send any analytic or usage data to any external servers. It also does not require an online account to use.<br><br>
-<b>Please note:</b> Zenit contacts an API once the first time it is launched, and when you activate a licence for the first time in order to validate the free trial and the licence. This only happens once.
+Everything Zenit does is completely private. It uses Apple Intelligence (which is made by Apple and runs offline on your Mac) to carry out its analysis and does not send any personal information, analytic or usage data to any external servers. It also does not require an online account to use.<br><br>
+<b>Please note:</b> Zenit contacts an API once the first time it is launched, and when you activate a licence for the first time in order to validate the free trial and the licence; this only happens once. Zenit also periodically checks for updates. Zenit uses a unique identifier tied to your computer to validate trials and licences. No personally identifable data ever leaves your Mac.
 
 ## Pricing
-Zenit comes with a no-strings-attached 14-day free trial, where you can access all of the features and see if Zenit works for you. After the trial, Zenit requires a **one-time purchase** of £5.99 (or the equivalent in your local currency). All Zenit users get free updates forever.
+Zenit comes with a 14-day free trial, where you can access all of the features and see if Zenit works for you. After the trial, Zenit requires a **one-time purchase** of £5.99 (or the equivalent in your local currency). All Zenit users get free updates forever. By purchasing Zenit, you can help support its development! ❤️<br><br>
+You can purchase Zenit before the 14-day free trial is over, but it is highly recommended to use Zenit for the full trial to see if it will work for you.
 
 ## Requirements
 Zenit requires a Mac with Apple Silicon (M1 or later) running macOS 26 or later.
