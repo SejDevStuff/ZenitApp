@@ -2,7 +2,7 @@
 <img width="256" height="256" alt="ZenitIcon-macOS-Default-256x256@1x" src="https://github.com/user-attachments/assets/751fd9eb-c725-40b4-94bc-f3d940a96162" />
 
 <h2>Zenit</h2>
-<p><b>A native, offline, private, AI-powered anti-procrastination tool for the Mac</b></p>
+<p><b>A native, offline, AI-powered anti-procrastination tool for the Mac</b></p>
 
 </div>
 
