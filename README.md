@@ -44,7 +44,7 @@ Everything Zenit does is completely private. It uses Apple Intelligence (which i
 
 ## Pricing
 Zenit comes with a 14-day free trial, where you can access all of the features and see if Zenit works for you. After the trial, Zenit requires a **one-time purchase** of £5.99 (or the equivalent in your local currency). All Zenit users get free updates forever. By purchasing Zenit, you can help support its development! ❤️<br><br>
-You can purchase Zenit before the 14-day free trial is over, but it is highly recommended to use Zenit for the full trial to see if it will work for you.
+You can purchase Zenit before the 14-day free trial is over, but it is highly recommended to use Zenit for the full trial to see if it will work for you. Unfortunately, a refund cannot be offered for any purchases made.
 
 ## Requirements
 Zenit requires a Mac with Apple Silicon (M1 or later) running macOS 26 or later.
