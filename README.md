@@ -22,8 +22,19 @@
 
 When you would like to get some work done, you start a "Session" on Zenit. This is where you tell Zenit what you're working on.
 
-<img width="450" height="414" alt="image" src="https://github.com/user-attachments/assets/1823c9bf-2835-47b3-bdf3-4e566fcc7395" />
+<details>
+  <summary><b>📷 Click to show screenshots of the "New Session" menu</b></summary>
+  <br>
+  <p align="center">
+    <img width="472" height="290" alt="image" src="https://github.com/user-attachments/assets/6d01780a-898d-4c0c-b181-0caf88e36a56" />
+    <img width="470" height="261" alt="image" src="https://github.com/user-attachments/assets/b8ae7c09-83d7-4c0f-aca4-156cae2e583a" />
+  </p>
 
+  <p align="center">
+    <img width="541" height="283" alt="image" src="https://github.com/user-attachments/assets/c257db9e-6240-4edb-9da0-29e3c74dd3ac" />
+    <img width="469" height="447" alt="image" src="https://github.com/user-attachments/assets/f4c991e3-3a59-47e2-b835-c106e2a61e68" />
+  </p>
+</details>
 Once you start a session, Zenit will run in the background and will analyse the contents of your screen every minute to decide whether it is related to what you said you were going to work on.
 It uses Apple Intelligence (running entirely on your Mac) to understand context, not just app names. E.g. opening Safari isn't procrastination, but watching YouTube when you should be revising is.
 
@@ -49,6 +60,10 @@ Zenit also begins to display overlays like this every one to two minutes, making
 
 **What if I stop procrastinating?**<br>
 Zenit will not nudge you if it sees that your procrastination score is decreasing.
+
+## Hard-blocking
+If you think that you might still be tempted to open distracting apps (such as a music player) during a session, you are able to ask Zenit to block any app with a category that is not on your session's allowed category list from launching at all. This only is in effect if there is an active session.<br>
+<img width="422" height="130" alt="image" src="https://github.com/user-attachments/assets/c8c32088-dfac-4e12-85bb-2cdf5a9a64f0" />
 
 ## Privacy
 Everything Zenit does is completely private. It uses Apple Intelligence (which is made by Apple and runs offline on your Mac) to carry out its analysis and does not send any personal information, analytic or usage data to any external servers. It also does not require an online account to use.<br><br>
