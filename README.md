@@ -61,13 +61,23 @@ Zenit also begins to display overlays like this every one to two minutes, making
 **What if I stop procrastinating?**<br>
 Zenit will not nudge you if it sees that your procrastination score is decreasing.
 
+## Breaks
+During a session, you may feel that you need a break. You can schedule a break in Zenit by pressing the "I need a break" button. Breaks can be up to one hour long, and you can either adjust the session end time to fit your break (i.e. the end time increases by the length of your break), or you can let the break use your session time (i.e. the session will end at the planned end time). If you are doing the latter, the break cannot be longer than the remaining time on your session.
+
+During a break, Zenit will pause all anti-procrastination measures, and will notify you when your break is over.
+You are able to change the length of your break, or end your break prematurely as well.
+
 ## Hard-blocking
-If you think that you might still be tempted to open distracting apps (such as a music player) during a session, you are able to ask Zenit to block any app with a category that is not on your session's allowed category list from launching at all. This only is in effect if there is an active session.<br>
+**This is an optional feature you can enable per session. It is disabled by default.** If you think that you might still be tempted to open distracting apps (such as a music player) during a session, you are able to ask Zenit to block any app with a category that is not on your session's allowed category list from launching at all. This only is in effect if there is an active session.<br>
 <img width="422" height="130" alt="image" src="https://github.com/user-attachments/assets/c8c32088-dfac-4e12-85bb-2cdf5a9a64f0" />
+
+## Making the app hard to close
+**This is an optional feature you can enable per session. It is disabled by default.** If you think that you will be tempted to prematurely end the session or quit the app so you can get around the anti-procrastination measures, you have the option to make the app/session harder to close. When this option is enabled, if you try to close the app or end the session, you will be presented with a full screen overlay that will make you wait 15 seconds before you can actually close the app / end the session.
+<img width="1921" height="1084" alt="image" src="https://github.com/user-attachments/assets/d8317e5f-97a5-450f-9f15-37a13f0318b6" />
 
 ## Privacy
 Everything Zenit does is completely private. It uses Apple Intelligence (which is made by Apple and runs offline on your Mac) to carry out its analysis and does not send any personal information, analytic or usage data to any external servers. It also does not require an online account to use.<br><br>
-<b>Please note:</b> Zenit contacts an API once the first time it is launched, and when you activate a licence for the first time in order to validate the free trial and the licence; this only happens once. Zenit also periodically checks for updates. Zenit uses a unique identifier tied to your computer to validate trials and licences. No personally identifable data ever leaves your Mac.
+<b>Please note:</b> Zenit contacts an API once the first time it is launched, and when you activate a licence for the first time in order to validate the free trial and the licence; this only happens once. Zenit also periodically checks for updates. Zenit uses a unique identifier tied to your computer to validate trials and licences. No personally identifiable data ever leaves your Mac.
 
 ## Pricing and Refund Policy
 Zenit comes with a 14-day free trial, where you can access all of the features and see if Zenit works for you. After the trial, Zenit requires a **one-time purchase** of £4.99 (or the equivalent in your local currency). All Zenit users get free updates forever. By purchasing Zenit, you can help support its development! ❤️<br><br>
