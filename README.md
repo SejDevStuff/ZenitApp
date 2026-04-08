@@ -11,6 +11,12 @@
       <sub>Requires a Mac with Apple Silicon (M1 or later) running macOS 26 or later, with Apple Intelligence enabled</sub>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <a href="https://www.sej.app">Website ↗</a><br>
+    </td>
+  </tr>
 </table>
 
 
