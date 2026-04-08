@@ -17,6 +17,12 @@
       <a href="https://www.sej.app">Website ↗</a><br>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <a href="https://ko-fi.com/sejdevstuff">Donate ↗</a><br>
+    </td>
+  </tr>
 </table>
 
 
@@ -82,13 +88,11 @@ You are able to change the length of your break, or end your break prematurely a
 <img width="1921" height="1084" alt="image" src="https://github.com/user-attachments/assets/d8317e5f-97a5-450f-9f15-37a13f0318b6" />
 
 ## Privacy
-Everything Zenit does is completely private. It uses Apple Intelligence (which is made by Apple and runs offline on your Mac) to carry out its analysis and does not send any personal information, analytic or usage data to any external servers. It also does not require an account to use.<br><br>
-<b>Please note:</b> Zenit contacts an API once the first time it is launched, and when you activate a licence for the first time in order to validate the free trial and the licence; this only happens once. Zenit also periodically checks for updates. Zenit uses a unique identifier tied to your computer to validate trials and licences. No personally identifiable data ever leaves your Mac. Apart from the very first launch and when you activate a licence for the first time, an internet connection is not needed.
+Everything Zenit does is completely private. It uses Apple Intelligence (which is made by Apple and runs offline on your Mac) to carry out its analysis and does not send any data to any external servers. It does not require an account or even an internet connection to use!<br><br>
+<b>Please note:</b> An internet connection is required to check for, and download updates from within Zenit, but otherwise it can run completely offline.
 
-## Pricing and Refund Policy
-Zenit comes with a 14-day free trial, where you can access all of the features and see if Zenit works for you. After the trial, Zenit requires a **one-time purchase** of £4.99 (or the equivalent in your local currency). All Zenit users get free updates forever. Your purchase directly supports an independent developer! ❤️<br><br>
-You can purchase Zenit before the 14-day free trial is over, but it is highly recommended to use Zenit for the full trial to see if it will work for you. 
-Due to the nature of digital software and the availability of a full-featured 14-day free trial, refunds are not available after purchase.
+## Pricing
+Zenit is completely free to use with no strings attached and will stay that way! However, if you wish to support an independent developer, you can donate [here](https://ko-fi.com/sejdevstuff), 
 
 ## Bugs and Feedback
 I would love to hear your thoughts! If you have any feedback, suggestions, or bugs you encountered, please email me at hello@sej.app and I will try to respond to you within a week.
