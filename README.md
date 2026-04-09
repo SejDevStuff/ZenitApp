@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/SejDevStuff/ZenitApp/releases">Download for macOS</a><br>
+      <a href="https://github.com/SejDevStuff/ZenitApp/releases/tag/1.0.0">Download for macOS</a><br>
       <sub>Requires a Mac with Apple Silicon (M1 or later) running macOS 26 or later, with Apple Intelligence enabled</sub>
     </td>
   </tr>
