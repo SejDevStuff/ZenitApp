@@ -20,7 +20,7 @@
 
   <tr>
     <td>
-      <a href="https://ko-fi.com/sejdevstuff">Buy me a coffee! ↗</a><br>
+      <a href="https://ko-fi.com/sejdevstuff">Buy me a potato! ↗</a><br>
     </td>
   </tr>
 </table>
@@ -92,7 +92,7 @@ Everything Zenit does is completely private. It uses Apple Intelligence (which i
 <b>Please note:</b> An internet connection is required to check for, and download updates from within Zenit, but otherwise it can run completely offline.
 
 ## Pricing
-Zenit is completely free to use with no strings attached and will stay that way! However, if you wish to support an independent developer, you can buy me a coffee [here](https://ko-fi.com/sejdevstuff), 
+Zenit is completely free to use with no strings attached and will stay that way! However, if you wish to support an independent developer, you can buy me a potato [here](https://ko-fi.com/sejdevstuff), 
 
 ## Bugs and Feedback
 I would love to hear your thoughts! If you have any feedback, suggestions, or bugs you encountered, please email me at hello@sej.app and I will try to respond to you within a week.
