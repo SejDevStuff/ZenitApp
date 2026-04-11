@@ -14,12 +14,6 @@
 
   <tr>
     <td>
-      <a href="https://www.sej.app">Website ↗</a><br>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
       <a href="https://ko-fi.com/sejdevstuff">Buy me a potato! ↗</a><br>
     </td>
   </tr>
