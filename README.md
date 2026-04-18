@@ -14,7 +14,7 @@
 
   <tr>
     <td>
-      <a href="https://ko-fi.com/sejdevstuff">Buy me a potato! ↗</a><br>
+      <a href="https://ko-fi.com/sejdevstuff">Buy me a potato! (Donate) ↗</a><br>
     </td>
   </tr>
 </table>
