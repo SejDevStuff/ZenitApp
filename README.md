@@ -89,7 +89,7 @@ Everything Zenit does is completely private. It uses Apple Intelligence (which i
 Zenit is completely free to use with no strings attached and will stay that way! However, if you wish to support an independent developer, you can buy me a potato [here](https://ko-fi.com/sejdevstuff), 
 
 ## Bugs and Feedback
-I would love to hear your thoughts! If you have any feedback, suggestions, or bugs you encountered, please email me at hello@sej.app and I will try to respond to you within a week.
+I would love to hear your thoughts! If you have any feedback, suggestions, or bugs you encountered, please email me at hello@sej.app or press the "Feedback" button in the program to be taken to a Google Form and I will try to respond to you as soon as I can.
 
 ## Requirements
 Zenit requires a Mac with Apple Silicon (M1 or later) running macOS 26 or later.
